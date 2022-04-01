@@ -21,7 +21,7 @@
     "baseUrl": "./"
   },
   "files": [
-    "src/Elephant.ts"
+    "src/index.ts"
   ],
   "include": [
     "./**/*.ts"
